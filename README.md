@@ -1,4 +1,6 @@
 # Minesweeper Board Task
+To run the project simply download the ZIP file containing the project files, unzip the ZIP file and open the HTML file using the browser of your choice.
+
 ## Brief
 Build a program which generates and visualises the minesweeper (uncovered) game field. It must have 3 input parameters: number of rows, number of columns and number of mines. 
 
